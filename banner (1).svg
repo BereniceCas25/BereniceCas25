@@ -1,0 +1,85 @@
+<svg width="100%" viewBox="0 0 680 220" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Banner de perfil Kuromi — Berenice Castillo</title>
+<desc>Banner animado con estrellas cayendo en tonos morados sobre fondo oscuro</desc>
+<defs>
+  <radialGradient id="bg" cx="50%" cy="50%" r="70%">
+    <stop offset="0%" stop-color="#1a0535"/>
+    <stop offset="100%" stop-color="#0a0118"/>
+  </radialGradient>
+  <radialGradient id="glowc" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#9b2563" stop-opacity="0.3"/>
+    <stop offset="100%" stop-color="#9b2563" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="glowp" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#7b1fa2" stop-opacity="0.25"/>
+    <stop offset="100%" stop-color="#7b1fa2" stop-opacity="0"/>
+  </radialGradient>
+  <style>
+    @keyframes fall1{0%{transform:translateY(-20px);opacity:0}10%{opacity:1}90%{opacity:1}100%{transform:translateY(200px);opacity:0}}
+    @keyframes fall2{0%{transform:translateY(-20px);opacity:0}15%{opacity:0.8}85%{opacity:0.8}100%{transform:translateY(220px);opacity:0}}
+    @keyframes twinkle{0%,100%{opacity:0.2}50%{opacity:1}}
+    @keyframes shimmer{0%,100%{opacity:0.7}50%{opacity:1}}
+    .s1{animation:fall1 4s ease-in infinite}
+    .s2{animation:fall1 5.5s ease-in 1.2s infinite}
+    .s3{animation:fall2 3.8s ease-in 0.5s infinite}
+    .s4{animation:fall1 6s ease-in 2s infinite}
+    .s5{animation:fall2 4.5s ease-in 3s infinite}
+    .s6{animation:fall1 5s ease-in 1.8s infinite}
+    .s7{animation:fall2 6.5s ease-in 0.3s infinite}
+    .s8{animation:fall1 4.2s ease-in 2.7s infinite}
+    .t1{animation:twinkle 2s ease-in-out infinite}
+    .t2{animation:twinkle 3s ease-in-out 0.5s infinite}
+    .t3{animation:twinkle 2.5s ease-in-out 1s infinite}
+    .t4{animation:twinkle 1.8s ease-in-out 1.5s infinite}
+    .t5{animation:twinkle 3.2s ease-in-out 0.8s infinite}
+    .t6{animation:twinkle 2.2s ease-in-out 2s infinite}
+    .t7{animation:twinkle 2.8s ease-in-out 0.3s infinite}
+    .t8{animation:twinkle 1.5s ease-in-out 1.2s infinite}
+    .t9{animation:twinkle 3.5s ease-in-out 0.6s infinite}
+    .t10{animation:twinkle 2s ease-in-out 2.5s infinite}
+    .glow{animation:shimmer 3s ease-in-out infinite}
+  </style>
+</defs>
+
+<rect width="680" height="220" fill="url(#bg)" rx="14"/>
+<ellipse cx="150" cy="130" rx="120" ry="80" fill="url(#glowp)"/>
+<ellipse cx="530" cy="100" rx="110" ry="75" fill="url(#glowc)"/>
+
+<circle class="t1" cx="42" cy="25" r="1.5" fill="#f0c6ff"/>
+<circle class="t2" cx="120" cy="15" r="1" fill="#d4b8ff"/>
+<circle class="t3" cx="210" cy="30" r="1.5" fill="#ffb3d9"/>
+<circle class="t4" cx="310" cy="12" r="1" fill="#f0c6ff"/>
+<circle class="t5" cx="400" cy="28" r="1.5" fill="#d4b8ff"/>
+<circle class="t6" cx="490" cy="10" r="1" fill="#ffb3d9"/>
+<circle class="t7" cx="580" cy="22" r="1.5" fill="#f0c6ff"/>
+<circle class="t8" cx="640" cy="40" r="1" fill="#d4b8ff"/>
+<circle class="t9" cx="30" cy="120" r="1" fill="#ffb3d9"/>
+<circle class="t10" cx="650" cy="140" r="1.5" fill="#f0c6ff"/>
+<circle class="t1" cx="160" cy="190" r="1" fill="#d4b8ff"/>
+<circle class="t3" cx="520" cy="195" r="1" fill="#ffb3d9"/>
+<circle class="t5" cx="270" cy="200" r="1.5" fill="#f0c6ff"/>
+<circle class="t7" cx="440" cy="205" r="1" fill="#d4b8ff"/>
+
+<g class="s1"><circle cx="70" cy="20" r="2" fill="#f0c6ff"/><line x1="70" y1="20" x2="75" y2="2" stroke="#f0c6ff" stroke-width="1.5" stroke-linecap="round" opacity="0.7"/></g>
+<g class="s2"><circle cx="200" cy="20" r="1.8" fill="#d4b8ff"/><line x1="200" y1="20" x2="205" y2="2" stroke="#d4b8ff" stroke-width="1.2" stroke-linecap="round" opacity="0.7"/></g>
+<g class="s3"><circle cx="330" cy="20" r="2" fill="#ffb3d9"/><line x1="330" y1="20" x2="335" y2="0" stroke="#ffb3d9" stroke-width="1.5" stroke-linecap="round" opacity="0.7"/></g>
+<g class="s4"><circle cx="460" cy="20" r="1.5" fill="#f0c6ff"/><line x1="460" y1="20" x2="465" y2="4" stroke="#f0c6ff" stroke-width="1" stroke-linecap="round" opacity="0.6"/></g>
+<g class="s5"><circle cx="580" cy="20" r="2" fill="#d4b8ff"/><line x1="580" y1="20" x2="585" y2="2" stroke="#d4b8ff" stroke-width="1.5" stroke-linecap="round" opacity="0.7"/></g>
+<g class="s6"><circle cx="140" cy="20" r="1.8" fill="#ffb3d9"/><line x1="140" y1="20" x2="145" y2="3" stroke="#ffb3d9" stroke-width="1.2" stroke-linecap="round" opacity="0.7"/></g>
+<g class="s7"><circle cx="410" cy="20" r="1.5" fill="#f0c6ff"/><line x1="410" y1="20" x2="415" y2="4" stroke="#f0c6ff" stroke-width="1" stroke-linecap="round" opacity="0.6"/></g>
+<g class="s8"><circle cx="630" cy="20" r="2" fill="#d4b8ff"/><line x1="630" y1="20" x2="635" y2="3" stroke="#d4b8ff" stroke-width="1.5" stroke-linecap="round" opacity="0.7"/></g>
+
+<g transform="translate(320,62)">
+  <ellipse cx="-22" cy="0" rx="18" ry="11" fill="#6a0080" transform="rotate(-18 -22 0)"/>
+  <ellipse cx="22" cy="0" rx="18" ry="11" fill="#6a0080" transform="rotate(18 22 0)"/>
+  <ellipse cx="-22" cy="0" rx="11" ry="7" fill="#9b2563" transform="rotate(-18 -22 0)"/>
+  <ellipse cx="22" cy="0" rx="11" ry="7" fill="#9b2563" transform="rotate(18 22 0)"/>
+  <circle cx="0" cy="0" r="8" fill="#7b1fa2"/>
+  <circle cx="0" cy="0" r="4" fill="#ce93d8"/>
+</g>
+
+<text x="340" y="118" text-anchor="middle" font-family="Georgia, serif" font-size="28" font-weight="700" fill="#f0c6ff" class="glow">✦ Berenice Castillo ✦</text>
+<text x="340" y="148" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#c89de0">Ingeniería en Sistemas Computacionales · próxima a graduarse</text>
+<line x1="200" y1="160" x2="480" y2="160" stroke="#5c2d9e" stroke-width="0.5" opacity="0.6"/>
+<circle cx="340" cy="160" r="3" fill="#9b2563" opacity="0.8"/>
+</svg>
