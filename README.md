@@ -54,7 +54,7 @@ Bases de datos    █████████░░░░░░░░░░░�
 
 <!-- 👇 CAMBIA LOS LINKS AQUÍ -->
 [![GitHub](https://img.shields.io/badge/GitHub-1a0a2e?style=for-the-badge&logo=github&logoColor=d4b8ff)](https://github.com/BereniceCas25)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2d0a4e?style=for-the-badge&logo=linkedin&logoColor=c89de0)](https://linkedin.com/in/berecastillo2580)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2d0a4e?style=for-the-badge&logo=linkedin&logoColor=c89de0)](www.linkedin.com/in/berenicecastillo2580)
 [![Email](https://img.shields.io/badge/Email-3d1a6e?style=for-the-badge&logo=gmail&logoColor=ffb3d9)](mailto:berenicee2255@gmail.com)
 
 </div>
